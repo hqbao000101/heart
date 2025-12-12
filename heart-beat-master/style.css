@@ -1,0 +1,11 @@
+h1 {
+  color: rgb(238, 21, 21);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -100%);
+  text-shadow: 2px 2px 7px rgb(239, 85, 85);
+  font-family: "Estonia", cursive;
+  font-size: 50px;
+  text-transform: uppercase;
+}
